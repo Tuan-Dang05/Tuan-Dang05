@@ -37,7 +37,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85281544/284971938-a65ececb-7042-4a69-b9a6-71381c48b003.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240414T141826Z&X-Amz-Expires=300&X-Amz-Signature=89a243eb8122c4de2179d0d0e932124b79dc23c04d6355d3f77962db21edd43b&X-Amz-SignedHeaders=host&actor_id=85606113&key_id=0&repo_id=554255993" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
