@@ -85,7 +85,7 @@
 <br>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <a href="#" title="Tuan_dang">
-    <img  align="center" width="500" src="https://github-profile-trophy.vercel.app/?username=Tuan-Dang05&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+    <img  align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=Tuan-Dang05&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
   </a>
 
 <h3 align="center">
