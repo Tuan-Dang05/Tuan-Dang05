@@ -11,7 +11,7 @@
 
 <div align="center">
 
- 🌍 I'm from Vietnamese 
+ 🌍 I'm from Vietnam
  
  🔭 I’m currently working on **a chat app**
 
