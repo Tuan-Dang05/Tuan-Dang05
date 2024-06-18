@@ -1,5 +1,5 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=12525705207130540" height="212" width="345" frameborder="0" scrolling="no" ></iframe>
-<div align="center"> <img src="./banner.gif"> </div>
+
+<div align="center"> <img src="./banner.gif" autoplay> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tuan+Dang!;" />
