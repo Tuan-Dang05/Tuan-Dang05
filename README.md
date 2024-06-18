@@ -1,4 +1,4 @@
-![Alt Text](./banner.gif)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=12525705207130540" height="212" width="345" frameborder="0" scrolling="no" ></iframe>
 <div align="center"> <img src="./banner.gif"> </div>
 
 <h1 align="center">
