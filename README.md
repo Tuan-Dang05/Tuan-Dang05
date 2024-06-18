@@ -1,4 +1,4 @@
-![Alt Text]('./banner.gif')
+![Alt Text](./banner.gif)
 <div align="center"> <img src="./banner.gif"> </div>
 
 <h1 align="center">
