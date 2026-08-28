@@ -38,9 +38,9 @@
 
 ---
 
-## 🌌 About Me
+<h2 align="center">🌌 About Me</h2>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -97,9 +97,9 @@
 
 ---
 
-## 🪐 Tech Universe
+<h2 align="center">🪐 Tech Universe</h2>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
