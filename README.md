@@ -317,7 +317,7 @@ A crypto rewards ecosystem connecting users, publishers and advertising campaign
 
 <picture>
 
-<source
+<!-- <source
   media="(prefers-color-scheme: dark)"
   srcset="https://raw.githubusercontent.com/Tuan-Dang05/Tuan-Dang05/output/github-contribution-grid-snake-dark.svg"
 />
@@ -331,8 +331,8 @@ A crypto rewards ecosystem connecting users, publishers and advertising campaign
   width="100%"
   alt="GitHub Contribution Snake"
   src="https://raw.githubusercontent.com/Tuan-Dang05/Tuan-Dang05/output/github-contribution-grid-snake.svg"
-/>
-
+/> -->
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
