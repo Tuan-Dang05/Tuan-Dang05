@@ -1,118 +1,165 @@
 <div align="center">
-  <img src="./banner.gif" width="100%" alt="Tuan Dang Banner" />
+
+<img src="./banner.gif" width="100%" alt="Tuan Dang Banner" />
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&duration=3500&pause=700&color=8B8CFF&center=true&vCenter=true&width=900&height=70&lines=Hi+There!+👋;I'm+Tuan+Dang;Full-Stack+Developer;Web3+Builder+⛓️;Tool+Developer+⚙️"
+  alt="Typing SVG"
+/>
+
+<h3>
+🌌 Building modern web applications, Web3 products & automation tools
+</h3>
+
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Tuan-Dang05&style=for-the-badge&color=7C83FD"
+  alt="Profile Views"
+/>
+
+<a href="https://discord.gg/tuantienti_">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://tuan-dang05.github.io/tuan_dang_profile/">
+  <img src="https://img.shields.io/badge/Portfolio-6D5DFB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+</a>
+
+<a href="https://github.com/Tuan-Dang05">
+  <img src="https://img.shields.io/badge/GitHub-17153B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&duration=3500&pause=700&color=8A7CFF&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Tuan+Dang;Full-Stack+Developer;Web3+Builder;Tool+Developer;UI%2FUX+%26+DevOps+Enthusiast"
-    alt="Typing SVG"
-  />
-</h1>
-
-<h3 align="center">🌌 Building modern web apps, Web3 products and automation tools</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tuan-Dang05&style=for-the-badge&color=7C83FD" alt="profile views" />
-  <a href="https://discord.gg/tuantienti_">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://tuan-dang05.github.io/tuan_dang_profile/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
-  <a href="https://github.com/Tuan-Dang05">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
-## ✨ About Me
+## 🌌 About Me
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 👨‍🚀 Profile
+### 👨‍🚀 Who I Am
 
-- 🌍 Based in **Vietnam**
-- 💻 **Full-Stack Developer** with **3+ years** of hands-on experience
-- ⛓️ Focused on **Web3, Blockchain & Full-Stack Development**
-- ⚙️ Building **automation tools** and **scalable systems**
-- 🚀 Working with **React, Next.js, Node.js & modern DevOps**
-- 🤖 Using **ChatGPT & Claude** to speed up development
-- 🎮 Fun fact: I enjoy playing **TFT ^^**
+🌍 Based in **Vietnam**
+
+💻 **Full-Stack Developer** with **3+ years** of hands-on experience
+
+⛓️ Focused on **Web3, Blockchain & Full-Stack Development**
+
+⚙️ Building **automation tools & scalable systems**
+
+🚀 Working with **React, Next.js, Node.js & DevOps**
+
+🤖 Using **ChatGPT & Claude** to accelerate development
+
+🎮 I enjoy playing **TFT ^^**
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🚀 What I’m focused on
+### 🚀 What I Build
 
-- Building complete products from **frontend to backend**
-- Creating **Web3 workflows** and **on-chain systems**
-- Developing **tools** that save time and reduce repetitive work
-- Designing clean, useful, and maintainable products
-- Shipping projects with a strong focus on **logic, scalability and UX**
+✨ Full-stack web applications
+
+⛓️ Web3 & blockchain products
+
+💰 On-chain payment & reward systems
+
+🛠️ Automation tools and workflows
+
+⚙️ Backend APIs & scalable architecture
+
+🚢 CI/CD & production deployment
+
+🎨 Clean and user-friendly interfaces
 
 </td>
+
 </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Turning+ideas+into+real+products...;Building+clean+and+scalable+systems...;Exploring+Web2+and+Web3...;Always+learning.+Always+building."
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2700&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Turning+ideas+into+real+products...;Building+clean+and+scalable+systems...;Exploring+Web3+and+Blockchain...;Build.+Ship.+Improve.+Repeat."
+  alt="Typing SVG"
+/>
+
+</div>
 
 ---
 
-## 🪐 Tech Stack
+## 🪐 Tech Universe
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=4" />
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
 </p>
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⛓️ Web3
-<p>
-  <img src="https://img.shields.io/badge/Web3-6D28D9?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-4338CA?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smart_Contracts-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web3-6D28D9?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Blockchain-4338CA?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Smart_Contracts-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+
 </p>
 
-### 🛠️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vercel,vscode,figma&theme=dark" />
+### 🚀 DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vercel,vscode,figma&theme=dark&perline=4" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PM2-4F46E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-10B981?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/PM2-5B4BFF?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
+
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -122,143 +169,208 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ❄️ Snowryv  
-**Web3 eSports Tournament Platform**
+<h3 align="center">❄️ Snowryv</h3>
 
-A platform that combines competitive gaming with blockchain technology.
+<p align="center">
+<b>Web3 eSports Tournament Platform</b>
+</p>
 
-**Highlights**
-- 🏆 Tournament management
-- 💰 Smart contract prize pools
-- 🎟️ NFT-based systems
-- ⚡ On-chain reward distribution
-- 🎮 Web3 gaming experience
+A Web3 platform combining competitive gaming with blockchain infrastructure.
 
-<p>
-  <a href="https://snowryv.com/">
-    <img src="https://img.shields.io/badge/Visit_Snowryv-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+**Core features**
+
+🏆 Tournament management  
+💰 Smart contract prize pools  
+🎟️ NFT-based tournament systems  
+⚡ Automatic on-chain rewards  
+🎮 Competitive gaming infrastructure  
+
+<p align="center">
+
+<a href="https://snowryv.com/">
+<img
+  src="https://img.shields.io/badge/Explore_Snowryv-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"
+/>
+</a>
+
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 💎 PubCrypto  
-**Crypto Reward & Advertising Platform**
+<h3 align="center">💎 PubCrypto</h3>
 
-A crypto ecosystem connecting users, publishers and campaigns.
+<p align="center">
+<b>Crypto Reward & Advertising Platform</b>
+</p>
 
-**Highlights**
-- 💵 Crypto reward system
-- 📢 Advertising campaigns
-- 🔗 Publisher integrations
-- ⚙️ Automated reward workflows
-- 🔐 Backend security systems
+A crypto rewards ecosystem connecting users, publishers and advertising campaigns.
 
-<p>
-  <a href="https://pub.cryptolinkforearn.com/">
-    <img src="https://img.shields.io/badge/Visit_PubCrypto-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+**Core features**
+
+💵 Crypto reward system  
+📢 Advertising campaigns  
+🔗 Publisher integrations  
+⚙️ Automated reward workflows  
+🔐 Backend security systems  
+
+<p align="center">
+
+<a href="https://pub.cryptolinkforearn.com/">
+<img
+  src="https://img.shields.io/badge/Explore_PubCrypto-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
+/>
+</a>
+
 </p>
 
 </td>
+
 </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&duration=3200&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=More+projects+are+coming...+🚀;Keep+building.+Keep+improving.+✨"
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=More+projects+are+coming...+🚀;Keep+building.+Keep+shipping.+✨"
+  alt="Projects Animation"
+/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Universe
+
+<div align="center">
+
+<img
+  width="100%"
+  src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+  alt="Profile Details"
+/>
+
+<br/><br/>
 
 <table>
 <tr>
+
 <td width="50%" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Tuan-Dang05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"
-    width="100%"
-  />
+
+<img
+  width="100%"
+  src="./profile-summary-card-output/tokyonight/3-stats.svg"
+  alt="GitHub Stats"
+/>
+
 </td>
+
 <td width="50%" align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Tuan-Dang05&theme=tokyonight&hide_border=true&background=00000000"
-    width="100%"
-  />
+
+<img
+  width="100%"
+  src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+  alt="Productive Time"
+/>
+
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+  alt="Repositories Per Language"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+  alt="Most Commit Language"
+/>
+
+</td>
+
+</tr>
+
 </table>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan-Dang05&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-    width="42%"
-  />
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Galaxy
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tuan-Dang05&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
+<div align="center">
 
----
+<picture>
 
-## 🏆 GitHub Trophies
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Tuan-Dang05/Tuan-Dang05/output/github-contribution-grid-snake-dark.svg"
+/>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Tuan-Dang05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="100%"
-  />
-</p>
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Tuan-Dang05/Tuan-Dang05/output/github-contribution-grid-snake.svg"
+/>
 
----
+<img
+  width="100%"
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/Tuan-Dang05/Tuan-Dang05/output/github-contribution-grid-snake.svg"
+/>
 
-## 🐍 My Contributions
+</picture>
 
-<p align="center">
-  <img
-    alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/Tuan-Dang05/Tuan-Dang05/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</p>
+</div>
 
 ---
 
 ## 🌠 Let's Connect
 
-<p align="center">
-  I'm always interested in building useful products, exploring Web3 ideas and working on challenging projects.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://discord.gg/tuantienti_">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://tuan-dang05.github.io/tuan_dang_profile/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
-  <a href="https://github.com/Tuan-Dang05">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm always interested in building useful products, exploring Web3 ideas  
+and working on challenging projects.
 
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&duration=3500&pause=700&color=C084FC&center=true&vCenter=true&width=850&lines=Thanks+for+visiting!+✨;Always+building.+Always+learning.;Let's+build+something+awesome+🚀"
-    alt="Typing SVG"
-  />
-</h3>
+<br/><br/>
+
+<a href="https://discord.gg/tuantienti_">
+<img
+  src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+/>
+</a>
+
+<a href="https://tuan-dang05.github.io/tuan_dang_profile/">
+<img
+  src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white"
+/>
+</a>
+
+<a href="https://github.com/Tuan-Dang05">
+<img
+  src="https://img.shields.io/badge/GitHub-17153B?style=for-the-badge&logo=github&logoColor=white"
+/>
+</a>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=3500&pause=700&color=C084FC&center=true&vCenter=true&width=850&height=70&lines=Thanks+for+visiting!+✨;Always+building.+Always+learning.;See+you+among+the+stars...+🌌🚀"
+  alt="Ending Animation"
+/>
+
+</div>
